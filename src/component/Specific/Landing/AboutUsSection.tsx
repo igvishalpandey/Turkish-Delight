@@ -35,7 +35,7 @@ const AboutUsSection = () => {
                         </div>
                     </div>
                     <div className='text-[#000000] font-Inter text-sm mt-9 max-w-lg'>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
+                        <p>{`Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing`}</p>
                     </div>
                     <div className='flex flex-col items-baseline mt-6'>
                         <button className='bg-[#EB6753] text-white font-Inter font-semibold text-sm px-6 py-2 rounded-lg mt-6 hover:bg-[#d95a4b] transition-colors'>
